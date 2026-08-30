@@ -3,17 +3,17 @@
 A small, clean UI library for Roblox — dark, rounded, quietly animated, with [Solar icons](https://solar-icons.vercel.app) resolved at runtime.
 
 ```lua
-local SimpleLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/USER/SimpleLib/main/SimpleLib.lua"))()
+local SimpleLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/JSWorth/SimpleLib/refs/heads/main/SimpleLib.lua"))()
 ```
 
-> Replace `USER` with your GitHub username after you upload `SimpleLib.lua`.
+> Loads straight from this repo — no setup beyond pasting the line above.
 
 ---
 
 ## Quick start
 
 ```lua
-local SimpleLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/USER/SimpleLib/main/SimpleLib.lua"))()
+local SimpleLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/JSWorth/SimpleLib/refs/heads/main/SimpleLib.lua"))()
 
 local Window = SimpleLib:CreateWindow({
     Title = "Grow a Garden 2",
