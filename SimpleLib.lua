@@ -3,9 +3,9 @@
     SimpleLib  ·  v1.0.0
     A small, clean Roblox UI library with Solar icons and smooth animations.
 
-    local SimpleLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/USER/SimpleLib/main/SimpleLib.lua"))()
+    local SimpleLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/JSWorth/SimpleLib/refs/heads/main/SimpleLib.lua"))()
 
-    Docs: https://github.com/USER/SimpleLib
+    Docs: https://github.com/JSWorth/SimpleLib
 
 ]]
 
